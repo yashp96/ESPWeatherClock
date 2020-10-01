@@ -20,8 +20,8 @@
 #include <Fonts/Org_01.h>
 
 //SSID and Password of your WiFi router
-const char* ssid = "Focus_Electronics";
-const char* password = "Yash5233";
+const char* ssid = "YourSSID";
+const char* password = "YourPassword";
 
 const char* apiKey = "dad1066bbeb0853324834991a8a49cf6"; //openweathermap.org
 const char* cityID = "1260730"; //"Palghar,IN"; 
