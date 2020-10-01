@@ -23,7 +23,7 @@
 const char* ssid = "YourSSID";
 const char* password = "YourPassword";
 
-const char* apiKey = "dad1066bbeb0853324834991a8a49cf6"; //openweathermap.org
+const char* apiKey = "yourapikey"; //openweathermap.org
 const char* cityID = "1260730"; //"Palghar,IN"; 
 
 const int timezone = 0;   
